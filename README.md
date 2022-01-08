@@ -5,4 +5,4 @@ Simple web page to get the numerology numbers derived from your name and birth d
 - Full name => Character + Soul Urge + Hidden Agenda
 - Destiny + Character => Divine Purpose
 
-live app: https://www.metacoven.org/numerology/
+live app: https://martianina.github.io/numerology/
